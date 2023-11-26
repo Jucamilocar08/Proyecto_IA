@@ -13,3 +13,6 @@ https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
 
 # Video PROYECTO_ENTREGA2
 https://www.youtube.com/watch?v=Wm-ExEA0tvQ&feature=youtu.be
+
+# Video PROYECTO_ENTREGA_FINAL
+https://www.youtube.com/watch?v=XFf1mKA5EX0
